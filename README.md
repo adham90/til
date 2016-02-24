@@ -1,6 +1,4 @@
-# TIL: 1 Day
-> Today I Learned
-
+# TIL (Today I Learned) - 1 Day
 This repo about small things I learn day to day across a variety of languages and technologies.
 > I shamelessly stole this idea from thoughtbot/til and jbranchaud/til.
 
