@@ -36,7 +36,7 @@ fred.instance_variable_get(:@a)    #=> "cat"
 fred.instance_variable_get("@b")   #=> 99
 ```
 
-> Resources:
+> **Resources:**<br/>
 > Restful Rails Development Book by Silvia Puglisi<br/>
 > instance_variable_set: http://apidock.com/ruby/Object/instance_variable_set<br/>
 > instance_variable_get: http://apidock.com/ruby/Object/instance_variable_get<br/>

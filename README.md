@@ -1,6 +1,65 @@
-# TIL (Today I Learned) - 1 Day
-This repo about small things I learn day to day across a variety of languages and technologies.
-> I shamelessly stole this idea from thoughtbot/til and jbranchaud/til.
+# TIL (Today I Learned)
+This repo about small things i learn day to day across a variety of languages and technologies.
+> I shamelessly stole this idea from [thoughtbot/til](https://github.com/thoughtbot/til) and [jbranchaud/til](https://github.com/jbranchaud/til).
+
+---
+
+### Categories
+
+* [Ruby](#ruby)
+* [Rails](#rails)
+* [Linux](#linux)
+* [Vim](#vim)
+* [tmux](#tmux)
+* [Devops](#devops)
+* [Elixir](#elixir)
+* [Git](#git)
+* [JavaScript](#javascript)
+* [PostgreSQL](#postgresql)
+
+---
+
+### Ruby
+
+- [instance_variable_set & instance_variable_get](ruby/instance_variable_set-and-get.md)
+
+### Rails
+
+- []()
+
+### Linux
+
+- [Swap Control and Caps Lock with the xkb](linux/swap_control_and_caps_lock.md)
+
+### Vim
+
+- []()
+
+### tmux
+
+- []()
+
+### Devops
+
+- []()
+
+### Elixir
+
+- []()
+
+### Git
+
+- []()
+
+### JavaScript
+
+- []()
+
+### PostgreSQL
+
+- []()
+
+---
 
 ## License
-This repository is licensed under the MIT license. See [LICENSE](https://github.com/adham90/til/blob/master/LICENSE) for details.
+This repository is licensed under the MIT license. See [LICENSE](LICENSE) for details.
