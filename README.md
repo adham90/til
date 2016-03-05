@@ -25,7 +25,8 @@ This repo about small things i learn day to day across a variety of languages an
 
 ### Rails
 
-- []()
+- [Concerns included](rails/concerns_included.md)
+- [Concern ClassMethods and InstanceMethods](rails/concern_ClassMethods_and_InstanceMethods.md)
 
 ### Linux
 
