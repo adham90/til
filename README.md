@@ -27,7 +27,7 @@ This repo about small things i learn day to day across a variety of languages an
 
 - [Concerns included](rails/concerns_included.md)
 - [Concern ClassMethods and InstanceMethods](rails/concern_ClassMethods_and_InstanceMethods.md)
-- [Craete with](rails/create_with.md)
+- [Create with](rails/create_with.md)
 
 ### Linux
 
