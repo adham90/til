@@ -9,6 +9,7 @@ This repo about small things i learn day to day across a variety of languages an
 * [Ruby](#ruby)
 * [Rails](#rails)
 * [Linux](#linux)
+* [Nginx](#nginx)
 * [Vim](#vim)
 * [tmux](#tmux)
 * [Devops](#devops)
@@ -32,6 +33,11 @@ This repo about small things i learn day to day across a variety of languages an
 ### Linux
 
 - [Swap Control and Caps Lock with the xkb](linux/swap_control_and_caps_lock.md)
+
+
+### Nginx
+
+- [Enable gzip compression](nginx/gzip.md)
 
 ### Vim
 
