@@ -13,7 +13,7 @@ gzip_comp_level 3;
 
 #what to compress
 gzip_types text/plain;
-gzip_types text/css
-gzip_types application/json
+gzip_types text/css;
+gzip_types application/json;
 gzip_types text/javascript;
 ```
