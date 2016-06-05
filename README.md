@@ -30,6 +30,7 @@ This repo about small things i learn day to day across a variety of languages an
 - [Concern ClassMethods and InstanceMethods](rails/concern_ClassMethods_and_InstanceMethods.md)
 - [Create with](rails/create_with.md)
 - [module_function](rails/module_function.md)
+- [Active Record Observer](rails/Active_Record_Observer.md)
 
 ### Linux
 
